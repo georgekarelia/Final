@@ -1,5 +1,5 @@
-#ifndef _PLUS_H_
-#define _PLUS_H_
+#ifndef _DEL_H_
+#define _DEL_H_
 
 int del(int a, int b);
 
